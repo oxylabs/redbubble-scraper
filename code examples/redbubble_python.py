@@ -3,7 +3,7 @@ from pprint import pprint
 
 # Structure payload.
 payload = {
-    'source': 'universal_ecommerce',
+    'source': 'universal',
     'url': 'https://www.redbubble.com/g/t-shirts'
 }
 

@@ -15,7 +15,7 @@ namespace OxyApi
 
             var parameters = new Dictionary<string, string>()
             {
-                { "source", "universal_ecommerce" },
+                { "source", "universal" },
                 { "url", "https://www.redbubble.com/g/t-shirts" },
             };
 

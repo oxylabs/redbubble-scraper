@@ -1,7 +1,7 @@
 <?php
 
 $params = [
-    'source' => 'universal_ecommerce',
+    'source' => 'universal',
     'url' => 'https://www.redbubble.com/g/t-shirts',
 ];
 

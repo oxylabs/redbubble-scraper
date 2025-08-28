@@ -8,7 +8,7 @@ Oxylabs' [Redbubble Scraper](https://oxylabs.io/products/scraper-api/ecommerce/r
 
 ### How it works
 
-You can get Redbubble results by providing your own URLs to our service. We can return the HTML for any page you like.
+You can get Redbubble results by providing your own URLs to our service. We can return the HTML, parsed JSON, or Markdown output for any page you like.
 
 #### Python code example
 
